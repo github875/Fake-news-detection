@@ -1,5 +1,4 @@
 # Fake-news-detection
-# Fake News Classifier
 
 ## Investigating Fake News Detection with Scikit-Learn
 
